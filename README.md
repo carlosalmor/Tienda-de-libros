@@ -11,7 +11,7 @@ Tienda de libros de Rosa Pardo
 
 
 ## URL para ver el resultado
-Para ver el proyecto en directo puedes verlo aquí  https://rosapardo.com/
+Para ver el proyecto en directo  https://rosapardo.com/
 
 ## Autor
 Carlos Almor Llopis
