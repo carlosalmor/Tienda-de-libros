@@ -16,4 +16,4 @@ Para ver el proyecto en directo  https://rosapardo.com/
 Carlos Almor Llopis
 
 ## Contratación
-karlosalmor@gmail.com
+carlosalmor@yahoo.es    
